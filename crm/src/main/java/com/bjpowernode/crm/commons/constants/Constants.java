@@ -20,4 +20,6 @@ public class Constants {
     public static final String REMARK_EDIT_FLAG_NO_EDITED="0";//0---没修改过
     public static final String REMARK_EDIT_FLAG_YES_EDITED="1";//1---已修改
 
+    //这一行没啥意义就是测试用的
+    int i = -1;
 }
