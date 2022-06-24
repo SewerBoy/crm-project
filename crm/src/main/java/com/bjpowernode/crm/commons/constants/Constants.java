@@ -23,4 +23,5 @@ public class Constants {
     //这一行没啥意义就是测试用的
     int i = -1;
     int i2 = 2;
+    int i3 = 3;
 }
